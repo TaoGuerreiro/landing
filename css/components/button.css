@@ -1,0 +1,16 @@
+.btn-yours {
+  padding: 10px;
+  border-radius: 2px;
+  border: 2px solid grey;
+  color: grey;
+  background-color: lightgrey;
+  font-weight: 200;
+  font-size: 14px;
+  transition: 0.5s;
+}
+
+.btn-yours:hover {
+background-color: grey;
+color: lightgrey;
+border: 2px solid lightgrey;
+}
